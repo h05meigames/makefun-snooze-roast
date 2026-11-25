@@ -1,8 +1,8 @@
 # Snooze Button Roast
 
-[![Bounty](https://make.fun/api/competitions/u-carbon-forge-snooze-button-roast-14cbafc6/bounty.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
-[![Rank](https://make.fun/api/competitions/u-carbon-forge-snooze-button-roast-14cbafc6/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
-[![Reward](https://make.fun/api/competitions/u-carbon-forge-snooze-button-roast-14cbafc6/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
+[![make.fun · u-carbon-forge-snooze-button-roast-14cbafc6](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
+[![rank](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/h05meigames/makefun-snooze-roast/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
+[![reward](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/h05meigames/makefun-snooze-roast/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-snooze-button-roast-14cbafc6)
 
 One-line roast of the snooze button, written for the make.fun bounty
 [Snooze Button Roast](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6).
